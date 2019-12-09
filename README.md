@@ -33,9 +33,7 @@ I think the hardest part of my project is the different levels of the game. I wa
 
 ## Completed Work
 
-Upload photos and videos of your completed final project!
-
-Also upload the code that makes up your project to your repository.
+![](https://github.com/hzyhzya/hw1/blob/master/%233.png)
 
 ## References and links
 
